@@ -29,7 +29,7 @@ A full-stack real-time chat application built with **React**, **Socket.IO**, **N
 
 | Login Page | Chat Room |
 |------------|-----------|
-| ![Login](client/real-time-chat-app/public/Chatroom.png) | ![Chat](client/real-time-chat-app/public/Chatroom.png) |
+| ![Login](client/real-time-chat-app/public/Loginpage.png) | ![Chat](client/real-time-chat-app/public/Chatroom.png) |
 
 
 
