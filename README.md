@@ -29,7 +29,7 @@ A full-stack real-time chat application built with **React**, **Socket.IO**, **N
 
 | Login Page | Chat Room |
 |------------|-----------|
-| ![Login](./screenshots/login.png) | ![Chat](./screenshots/chatroom.png) |
+| ![Login](client/real-time-chat-app/public/Chatroom.png) | ![Chat](client/real-time-chat-app/public/Chatroom.png) |
 
 > Add your screenshots to the `/screenshots` folder and update the paths above.
 
